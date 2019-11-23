@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Rakete</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Параметры</string>
+
+
+    <!-- Диалоговое окно по кнопке FAB в MainActivity -->
+    <string name="c_title">Выберите действие</string>
+    <string name="c1_text">Новый тест</string>
+    <string name="c2_text">Подборки тестов</string>
+    <string name="c3_text">Архив тестов</string>
+
+    <!-- Диалоговое окно по элементу из listbox в MainActivity -->
+    <string name="cc_title">Выберите действие для данного теста</string>
+    <string name="cc1_text">Пройти тест</string>
+    <string name="cc2_text">Редактировать тест</string>
+    <string name="cc3_text">Удалить тест</string>
+
+    <!-- Диалоговое окно "Сохранить изменения?" -->
+    <string name="savedialog_title">Сохранить изменения?</string>
+    <string name="savedialog_content"></string>
+
+    <!-- Диалоговое окно по кнопке FAB в MainActivity -->
+    <string name="item1_constr">Список вопросов</string>
+    <string name="item2_constr"></string>
+    <string name="item3_constr">Выберите действие</string>
+
+    <!-- Диалоговое окно с информацией по запросу разрешений активности -->
+    <string name="i_title">Добро пожаловать!\n\nПредоставьте приложению разрешения на запись и чтение данных из памяти устройства.
+        Личные данные пользователя не будут изменены или прочитаны; данные разрешения необходимы только для корректной работы приложения.\n\n
+        Также, Вы можете предоставить приложению необходимые разрешения,
+        перейдя в Настройки устройства -> Приложения -> Rakete -> Разрешения -> Память.</string>
+    <string name="i_request">Запросить разрешения</string>
+
+    <string name="constrsetup_title">Создать новый тест\n\nВведите название и описание нового теста, чтобы перейти в режим конструктора и создать список вопросов.</string>
+
+    <string name="dialog_1">Dialog 1</string>
+    <string name="dialog_2">Dialog 2</string>
+    <string name="message_text">Text of your message</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="maybe">Maybe</string>
+    <string name="title_activity_constructor">Конструктор тестов</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_question_constructor_actitivity">QuestionConstructorActitivity
+    </string>
+    <string name="title_activity_passing_test">PassingTestActivity</string>
+    <string name="title_activity_main_app">ActivityMainApp</string>
+</resources>
